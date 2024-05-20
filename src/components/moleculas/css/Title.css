@@ -1,0 +1,9 @@
+#title_box {
+    width: 50%;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black, 0 0 10px black;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

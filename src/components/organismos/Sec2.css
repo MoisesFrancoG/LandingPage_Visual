@@ -1,0 +1,15 @@
+#container_section {
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+#container_cars {
+    width: 100%;
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-around;
+}
