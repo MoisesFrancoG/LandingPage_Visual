@@ -6,7 +6,7 @@ function Descriptive() {
             producido por el fabricante estadounidense Ford Motor Company 
             desde 1964, como modelo 1964. <br />
             <br />
-            Debutó en 19641 como modelo 1964 con un 
+            Debutó en 1964 como modelo 1964 con un 
             precio de US$2368 ($20,690 en 2024), cuyas 
             ventas anuales estaban estimadas en alrededor 
             de 100 000 unidades. Las ventas del primer año 
